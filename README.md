@@ -10,10 +10,11 @@
 
 ## Current Projects
 
-- 🐨 **[Fredy](https://github.com/franjofranjic27/fredy)** - your ai-ops-agent
-- 🐨 **[Finyo](https://github.com/franjofranjic27/finyo)** - your personal finance assistant
-- 🐨 **[CommonCharts](https://github.com/franjofranjic27/CommonCharts)** - your ai-ops-agent
-- **[CloudNativeCharts](https://github.com/franjofranjic27/CloudNativeCharts)** - your ai-ops-agent
+- 🐨 **[Fredy](https://github.com/franjofranjic27/fredy)** - your company knowledge like a teammate. RAG pipeline, vector search plus agentic help, all in one 
+- 🌕 **[BitBuddy](https://github.com/franjofranjic27/BitBuddy)** - BitBuddy your buddy to go to the moon
+- 🧭 **[Finyo](https://github.com/franjofranjic27/finyo)** - Finyo is your personal finance planer
+- 🗺️ **[CommonChart](https://github.com/franjofranjic27/CommonChart)** - helm chart used to deploy services to a k8s-cluster
+- 👷🏽 **[CloudNativeCharts](https://github.com/franjofranjic27/CloudNativeCharts)** - a chart holding cloud tools like sonar, argo, jaeger, etc. for hosting on a k8s cluster
 
 
 
