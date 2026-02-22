@@ -11,3 +11,9 @@
 ## Current Projects
 
 - 🐨 **[Fredy](https://github.com/franjofranjic27/fredy)** - your ai-ops-agent
+- 🐨 **[Finyo](https://github.com/franjofranjic27/finyo)** - your personal finance assistant
+- 🐨 **[CommonCharts](https://github.com/franjofranjic27/CommonCharts)** - your ai-ops-agent
+- **[CloudNativeCharts](https://github.com/franjofranjic27/CloudNativeCharts)** - your ai-ops-agent
+
+
+
