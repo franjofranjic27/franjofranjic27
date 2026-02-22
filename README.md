@@ -1,9 +1,13 @@
-### Hi there 👋, my name is Franjo
-#### I am a Web-Developer
-![I am a Web-Developer](https://media.licdn.com/dms/image/D4E16AQGEamVEyqNntg/profile-displaybackgroundimage-shrink_200_800/0/1677840709403?e=2147483647&v=beta&t=_Y7OuRqd1u3u8O9gUUYMFNuKtylBQ7P2cAZYBtoGiQE)
+### Hi, I'm Franjo 👋
 
-currently studying at OST in St. Gallen
+📍 **St. Gallen** | **Software Dev** | **Student at OST**
 
-Skills: Angular / Typescript / Java / Spring Boot
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-- 🔭 I’m currently working on this page. 
+## Current Projects
+
+- 🐨 **[Fredy](https://github.com/franjofranjic27/fredy)** - your ai-ops-agent
