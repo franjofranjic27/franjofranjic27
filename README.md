@@ -13,7 +13,7 @@
 ## Current Projects
 
 - 🐨 **[Fredy](https://github.com/franjofranjic27/fredy)** - your company knowledge like a teammate. RAG pipeline, vector search plus agentic help, all in one
-- 📚 **[Knowmi](https://github.com/franjofranjic27/knowmi)** - knomi is a CLI tool that indexes your documents into a vector database and serves them as a RAG source for AI agents.
+- 📚 **[Knomi](https://github.com/franjofranjic27/knomi)** - knomi is a CLI tool that indexes your documents into a vector database and serves them as a RAG source for AI agents.
 - 🌕 **[BitBuddy](https://github.com/franjofranjic27/BitBuddy)** - BitBuddy your buddy to go to the moon
 - 🧭 **[Finyo](https://github.com/franjofranjic27/finyo)** - Finyo is your personal finance planer
 
