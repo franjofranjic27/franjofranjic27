@@ -16,8 +16,6 @@
 - 📚 **[Knowmi](https://github.com/franjofranjic27/knowmi)** - knomi is a CLI tool that indexes your documents into a vector database and serves them as a RAG source for AI agents.
 - 🌕 **[BitBuddy](https://github.com/franjofranjic27/BitBuddy)** - BitBuddy your buddy to go to the moon
 - 🧭 **[Finyo](https://github.com/franjofranjic27/finyo)** - Finyo is your personal finance planer
-- 🗺️ **[CommonChart](https://github.com/franjofranjic27/CommonChart)** - helm chart used to deploy services to a k8s-cluster
-- 👷🏽 **[CloudNativeCharts](https://github.com/franjofranjic27/CloudNativeCharts)** - a chart holding cloud tools like sonar, argo, jaeger, etc. for hosting on a k8s cluster
 
 
 
