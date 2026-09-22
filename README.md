@@ -1,6 +1,6 @@
 ### Hi, I'm Franjo 👋
 
-📍 **St. Gallen** | **Software Dev** | **Student at OST**
+📍 **St. Gallen** | **Software Engineer** | **Student at HSG**
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
